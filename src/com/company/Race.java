@@ -1,4 +1,4 @@
-package afvink3;
+package com.company;
 
 /**
  * Race class
